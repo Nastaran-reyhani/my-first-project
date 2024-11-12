@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    /* overflow: hidden; */
+    width: 100%;
+    background-color: #d0d0d0;
+    font-size: 100%;
+    font-family: "Playfair Display", serif;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+
+    &:visited {
+        color: inherit;
+    }
+}
+
+li {
+    list-style-type: none;
+}
