@@ -1,4 +1,4 @@
-# first-project
+# shop-project
 
 
 - [Demo Project](https://nastaran-reyhani.github.io/my-first-project/)
