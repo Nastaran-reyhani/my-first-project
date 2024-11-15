@@ -1,7 +1,7 @@
 # shop-project
 
 
-- [Demo Project](https://nastaran-reyhani.github.io/my-first-project/)
+- [Demo Project](https://nastaran-reyhani.github.io/shop-project/)
 
 - Developed by Nastaran Reyhani
 
